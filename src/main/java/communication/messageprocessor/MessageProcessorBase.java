@@ -1,7 +1,7 @@
 package communication.messageprocessor;
 
 import com.google.gson.Gson;
-import communication.messagehandlers.IMessageHandlerFactory;
+import communication.clientmessagehandlers.IMessageHandlerFactory;
 
 public abstract class MessageProcessorBase implements IMessageProcessor {
 
